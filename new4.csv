@@ -239,7 +239,6 @@ sfax,14/01/2020 10:30,varac solide,1055.0
 sfax,06/01/2020 03:00,conteneurs tonnage,6025.0
 sfax,08/01/2020 00:00,cereales,13450.0
 sfax,13/01/2020 03:00,varac solide,3300.0
-Nom du port,ETA,Import,
 sfax,28/02/2019 03:00,Hydrocarbures,1263.0
 sfax,06/03/2019 03:00,cereales,12225.0
 sfax,25/02/2019 19:00,conteneurs tonnage,670.0
@@ -480,7 +479,6 @@ sfax,14/01/2019 10:30,varac solide,1055.0
 sfax,06/01/2019 03:00,conteneurs tonnage,6025.0
 sfax,08/01/2019 00:00,cereales,13450.0
 sfax,13/01/2019 03:00,varac solide,3400.0
-Nom du port,ETA,Import,
 sfax,28/02/2018 03:00,Hydrocarbures,1263.0
 sfax,06/03/2018 03:00,cereales,12225.0
 sfax,25/02/2018 19:00,conteneurs tonnage,670.0
@@ -721,7 +719,6 @@ sfax,14/01/2018 10:30,varac solide,1055.0
 sfax,06/01/2018 03:00,conteneurs tonnage,6025.0
 sfax,08/01/2018 00:00,cereales,13450.0
 sfax,13/01/2018 03:00,varac solide,3450.0
-Nom du port,ETA,Import,
 sfax,28/02/2017 03:00,Hydrocarbures,1263.0
 sfax,06/03/2017 03:00,cereales,12225.0
 sfax,25/02/2017 19:00,conteneurs tonnage,670.0
@@ -962,7 +959,6 @@ sfax,14/01/2017 10:30,varac solide,1055.0
 sfax,06/01/2017 03:00,conteneurs tonnage,6025.0
 sfax,08/01/2017 00:00,cereales,13600.0
 sfax,13/01/2017 03:00,varac solide,3600.0
-Nom du port,ETA,Import,
 sfax,28/02/2016 03:00,Hydrocarbures,1263.0
 sfax,06/03/2016 03:00,cereales,12225.0
 sfax,25/02/2016 19:00,conteneurs tonnage,670.0
@@ -1230,7 +1226,6 @@ sfax,13/01/2016 03:00,varac solide,3900.0
 "tunis, TN",28/12/2016 02:00,Vrac liquide,410.0
 "tunis, TN",07/01/2016 18:00,Cereales,17000.0
 "tunis, TN",14/01/2016 07:00,Cereales,10300.0
-Nom du port,ETA,Import,
 "tunis, TN",28/12/2017 03:00,Hydrocarbures,2000.0
 "tunis, TN",29/12/2017 09:00,Hydrocarbures,1602.0
 "tunis, TN",21/12/2017 08:00,Vrac liquide,540.0
@@ -1296,7 +1291,6 @@ Nom du port,ETA,Import,
 "tunis, TN",28/12/2017 02:00,Vrac liquide,410.0
 "tunis, TN",07/01/2017 18:00,Cereales,17000.0
 "tunis, TN",14/01/2017 07:00,Cereales,10300.0
-Nom du port,ETA,Import,
 sousse,28/02/2020 03:00,Hydrocarbures,5900.0
 sousse,02/03/2020 14:00,Vrac solide,183.0
 sousse,29/02/2020 02:00,voitures,130.0
@@ -1377,7 +1371,6 @@ sousse,07/03/2017 18:30,Hydrocarbures,5100.0
 sousse,13/03/2017 03:00,voitures,100.0
 sousse,06/03/2017 03:00,conteneurs tonnage,50.0
 sousse,13/03/2017 03:00,conteneurs tonnage,90.0
-Nom du port,ETA,Import,
 bizerte,28/02/2020 03:00,Hydrocarbures,5900.0
 bizerte,02/03/2020 14:00,Vrac solide,183.0
 bizerte,29/02/2020 02:00,voitures,130.0
